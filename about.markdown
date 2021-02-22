@@ -8,7 +8,7 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 You can find the Repository at GitHub:
 [manohar-vadapalli][manohar-vadapalli-organization] /
-[angular-websockets](https://github.com/manohar-vadapalli/angular-websockets)
+[manohar-vadapalli.github.io](https://github.com/manohar-vadapalli/manohar-vadapalli.github.io)
 
 
 [manohar-vadapalli-organization]: https://github.com/manohar-vadapalli
